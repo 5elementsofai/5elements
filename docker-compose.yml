@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+  api:
+    image: node:alpine
+    working_dir: /app
+    volumes:
+      - ./api:/app
+    entrypoint: yarn
+    ports:
+      - 3000
+
+  # app:
+  # kaggle:

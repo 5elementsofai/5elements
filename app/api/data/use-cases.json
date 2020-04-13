@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Title 1",
+    "body": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "footer": "Last updated 3 mins ago"
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "body": "This card has supporting text below as a natural lead-in to additional content.",
+    "footer": "Last updated 3 mins ago"
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "body": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "footer": "Last updated 3 mins ago"
+  }
+]
